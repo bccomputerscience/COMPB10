@@ -87,7 +87,6 @@ Pop Quizzes (5 @ 10 pts) | 50
 Midterm | 50
 Programming Assignments (10 @ 25 points each) | 250
 Final Exam | 100
------------- | -------------
 Total | 500
 
 Range (%) | grade 
