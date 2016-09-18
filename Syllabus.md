@@ -136,7 +136,7 @@ Sept 29 |  |  | | Homework 3
 Oct 4 | 7 | Gaddis: 6. Files and Exceptions | |
 Oct 6 | |  | |  Homework 4
 Oct 11 | 8 | Gaddis: 7. Lists and Tuples | | 
-Oct 13 |  |  Midterm Exam | | Homework 5  
+Oct 13 |  |  **Midterm Exam** | | Homework 5  
 Oct 18 | 9 | Gaddis: 8. More about Strings | |
 Oct 21 |  | Last day to withdraw and have a W show on your transcript | |
 Oct 25 | 10 | Gaddis: 9. Dictionaries and Sets | | Homework 6 
