@@ -151,7 +151,7 @@ Nov 22 | 14 | Gaddis: 12. Recursion | |
 Nov 24 | | | | Homework 10
 Nov 29 | 15 | Gaddis: 13. GUI Programming | |
 Dec 1 |  | Review for final | |
-Dec 8 | 16 |  Final Exam - 8:00 am to 9:50 am | | 
+Dec 8 | 16 |  **Final Exam - 6:00 pm to 7:50 pm** | | 
 
 ### READ THE MATERIAL FOR THE WEEK BEFORE CLASS
 ### This syllabus is TENTATIVE and subject to change
