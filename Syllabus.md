@@ -3,7 +3,7 @@
 ## Fall 2016 CRN: 72666
 
 ### Instructor
-Eddie Rangel
+Eddie Rangel  
 Asst. Professor  
 Information Technology  
 Bakersfield College  
