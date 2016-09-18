@@ -85,7 +85,8 @@ Assignment | Points
 Project | 50
 Pop Quizzes (5 @ 10 pts) | 50
 Midterm | 50
-Programming Assignments (10 @ 25 points each) | 250
+Programming Assignments (10 @ 20 points each) | 200
+Chapter Reviews (5 @ 10) | 50
 Final Exam | 100
 Total | 500
 
@@ -118,38 +119,39 @@ habits for success [Habits of Mind](visit www.bakersfieldcollege.edu/habits-of-m
 ## Weekly Schedule
 Date | Week | Subject | Notes | Assign/Due
 ------------ | ------------- | ------------- | ------------- | -------------
-Aug 23 | 1 |  Horstmann: 1. Introduction | |
+Aug 23 | 1 |  Gaddis: 1. Introduction | |
 Aug 25 |  |  | |
-Aug 30 | 2 |  Horstmann: 2. Using Objects | | 
+Aug 30 | 2 |  Gaddis: 2. Input, Processing, and Output | | 
 Sept 1 |  |  | |
 Sept 4 | 3 |  Labor Day – Campus Closed | | 
 Sept 5 |  | Last day to withdraw and not have a W show on your transcript | |
 Sept 6 |  |  | | Homework 1 
-Sept 8 | | Horstmann: 3. Implementing Classes | |
+Sept 8 | | Gaddis: 3. Decision Structures | |
 Sept 13 | 4  |  |  | Quiz One
 Sept 15 | |  |  |
-Sept 20 | 5 | Horstmann: 4. Fundamental Data Types | | 
+Sept 20 | 5 | Gaddis: 4. Repetition Structures | | 
 Sept 22 |  |  |  | Homework 2
-Sept 27 | 6 | Horstmann: 5. Decisions |  | 
+Sept 27 | 6 | Gaddis: 5. Functions |  | 
 Sept 29 |  |  | | Homework 3 
-Oct 4 | 7 |  | |
+Oct 4 | 7 | Gaddis: 6. Files and Exceptions | |
 Oct 6 | |  | |  Homework 4
-Oct 11 | 8 |  | | 
+Oct 11 | 8 | Gaddis: 7. Lists and Tuples | | 
 Oct 13 |  |  Midterm Exam | | Homework 5  
-Oct 18 | 9 | Horstmann: 6. Loops | |
-Oct 20 |  | Last day to withdraw and have a W show on your transcript | |
-Oct 25 | 10 | Horstmann: 7. Arrays and Array Lists | | Homework 6 
+Oct 18 | 9 | Gaddis: 8. More about Strings | |
+Oct 21 |  | Last day to withdraw and have a W show on your transcript | |
+Oct 25 | 10 | Gaddis: 9. Dictionaries and Sets | | Homework 6 
 Oct 27 |  | | | 
-Nov 1 | 11 | Horstmann: 8. Designing Classes | | Homework 7 
+Nov 1 | 11 | Gaddis: 10. Classes and Object Oriented Programming | | Homework 7 
 Nov 6 | | | | 
-Nov 8 | 12 | Horstmann: 8. Designing Classes Continued | | Homework 8
+Nov 8 | 12 | Gaddis: 10. Cont. | | Homework 8
 Nov 10 | | | | 
-Nov 15 | 13  | Horstmann: 9. Inheritance | | Homework 9
-Nov 27 | | | | 
-Nov 22 | 14 | Horstmann: 3. Implementing Classes | |
+Nov 15 | 13  | Gaddis: 11. Inheritance | | Homework 9
+Nov 17 | | | | 
+Nov 22 | 14 | Gaddis: 12. Recursion | |
 Nov 24 | | | | Homework 10
-Nov 30 |  | Review for final | |
-Dec 8 | 15 |  Final Exam - 8:00 am to 9:50 am | | 
+Nov 29 | 15 | Gaddis: 13. GUI Programming | |
+Dec 1 |  | Review for final | |
+Dec 8 | 16 |  Final Exam - 8:00 am to 9:50 am | | 
 
 ### READ THE MATERIAL FOR THE WEEK BEFORE CLASS
 ### This syllabus is TENTATIVE and subject to change
