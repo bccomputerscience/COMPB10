@@ -2,7 +2,7 @@
 # COMP B10: Introduction to Programming Methodologies using Python
 ## Fall 2016 CRN: 72666
 
-### Instructor
+## Instructor
 Eddie Rangel  
 Asst. Professor  
 Information Technology  
