@@ -9,7 +9,7 @@ Information Technology
 Bakersfield College  
 
 ## Contact Information
-Office: Business Bldg 13  
+Building/Room: Business 13  
 E-Mail: edward.rangel@bakersfieldcollege.edu  
 Phone: (661) 395-4879   
 web: http://courses.eddierangel.com/bc  
@@ -19,7 +19,7 @@ Building/Room: Business 11
 Thursday 6:00 - 9:10am
 
 ## Office Hours
-Office: Business 13
+Building/Room: Business 13
 
 Day | Time
 ------------ | -------------
