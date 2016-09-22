@@ -83,12 +83,12 @@ to leave class early.  Students, not notifying me in advance, will be marked abs
 
 Assignment | Points
 ------------ | -------------
-Project | 50
-Pop Quizzes (5 @ 10 pts) | 50
-Midterm | 50
-Programming Assignments (10 @ 20 points each) | 200
-Chapter Reviews (5 @ 10) | 50
-Final Exam | 100
+Project | 50  
+Pop Quizzes (5 @ 10 pts) | 50  
+Midterm | 50  
+Programming Assignments (10 @ 20 points each) | 200  
+Chapter Reviews (5 @ 10 pts) | 50  
+Final Exam | 100   
 Total | 500
 
 Range (%) | grade 
