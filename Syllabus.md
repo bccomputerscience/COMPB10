@@ -129,27 +129,27 @@ Sept 5 |  | Last day to withdraw and not have a W show on your transcript | |
 Sept 6 |  |  | | 
 Sept 8 | | Gaddis: 3. Decision Structures | | Homework 1 Due
 Sept 13 | 4  |  |  | Quiz One
-Sept 15 | |  |  |
+Sept 15 | |  |  | Homework 2 Due
 Sept 20 | 5 | Gaddis: 4. Repetition Structures | | 
-Sept 22 |  |  |  | Homework 2 Due
+Sept 22 |  |  |  | Homework 3 Due
 Sept 27 | 6 | Gaddis: 5. Functions |  | 
-Sept 29 |  |  | | Homework 3 Due
+Sept 29 |  |  | | Homework 4 Due
 Oct 4 | 7 | Gaddis: 6. Files and Exceptions | |
-Oct 6 | |  | |  Homework 4 Due
+Oct 6 | |  | |  Homework 5 Due
 Oct 11 | 8 | Gaddis: 7. Lists and Tuples | | 
-Oct 13 |  |  **Midterm Exam** | | Homework 5 Due  
+Oct 13 |  |  **Midterm Exam** | | Homework 6 Due  
 Oct 18 | 9 | Gaddis: 8. More about Strings | |
 Oct 21 |  | Last day to withdraw and have a W show on your transcript | |
-Oct 25 | 10 | Gaddis: 9. Dictionaries and Sets | | Homework 6 Due 
+Oct 25 | 10 | Gaddis: 9. Dictionaries and Sets | | Homework 7 Due 
 Oct 27 |  | | | 
-Nov 1 | 11 | Gaddis: 10. Classes and Object Oriented Programming | | Homework 7 Due 
+Nov 1 | 11 | Gaddis: 10. Classes and Object Oriented Programming | | Homework 8 Due 
 Nov 6 | | | | 
-Nov 8 | 12 | Gaddis: 10. Cont. | | Homework 8 Due
+Nov 8 | 12 | Gaddis: 10. Cont. | | Homework 9 Due
 Nov 10 | | | | 
-Nov 15 | 13  | Gaddis: 11. Inheritance | | Homework 9 Due
+Nov 15 | 13  | Gaddis: 11. Inheritance | | Homework 10 Due
 Nov 17 | | | | 
 Nov 22 | 14 | Gaddis: 12. Recursion | |
-Nov 24 | | | | Homework 10 Due
+Nov 24 | | | | 
 Nov 29 | 15 | Gaddis: 13. GUI Programming | |
 Dec 1 |  | Review for final | | Project Due
 Dec 8 | 16 |  **Final Exam - 6:00 pm to 7:50 pm** | | 
