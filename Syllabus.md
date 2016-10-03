@@ -88,7 +88,7 @@ Midterm | 50
 Programming Assignments (10 @ 20 points each) | 200  
 Chapter Reviews (5 @ 10 pts) | 50  
 Final Exam | 100   
-Total | 500
+**Total** | **500**
 
 Range (%) | grade 
 ------------ | -------------
