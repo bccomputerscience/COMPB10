@@ -18,7 +18,6 @@ creating an Application.
 /project/src/Student.py  
 /project/src/Course.py  
 /project/src/CourseAware.py  
-/project/src/CourseAwareMain.py  
 ```
 
 Do not send me your binaries  
@@ -114,9 +113,7 @@ Person.java | Base Class
 Student.java | Inherits from Person
 Instructor.java | Inherits from Person
 Course.java | Implementation details of a Course object
-CourseAware.java | Core Logic of the CourseAware application
-CourseAwareMain.java | Main program 
-CourseAwareTester.java | Test Runner 
+CourseAware.java | Main Logic of the CourseAware application
 
 Object | Properties
 ------------ | -------------
@@ -125,8 +122,6 @@ Instructor | Title
 Student | Status, GPA
 Course | Name, Number, Units, Instructor, Students
 CourseAware | Course, Instructor
-CourseAwareMain | Main Driver
-CourseAwareTester | Tests
 
 ### User Acceptance Test 70%
 
