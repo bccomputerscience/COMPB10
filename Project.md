@@ -117,7 +117,7 @@ CourseAware.java | Main Logic of the CourseAware application
 
 Object | Properties
 ------------ | -------------
-Person | First Name, Last Name, Middle Initial
+Person | First Name, Last Name
 Instructor | Title
 Student | Status, GPA
 Course | Name, Number, Units, Instructor, Students
