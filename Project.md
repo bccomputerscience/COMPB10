@@ -86,7 +86,7 @@ professor selects 'Enter Test Scores' menu option.
   ====================================
   1. Create Course 
   2. Add Students to a Course
-  3. View Course Schedule
+  3. View Course Information
   4. Add Test scores to a Course
 
   0.  Exit
@@ -132,7 +132,7 @@ Start Application as an Instructor | 2 Steps
     | See Main Menu
 2. Create Course | Select Create Course Menu option
   | Enter Course Information
-  | View Course in Instructor Schedule
+  | View Course Information
 
 
 ### Phase II
@@ -151,7 +151,7 @@ professor selects 'Add Students to a Course' menu option.
   ====================================
   1. Create Course 
   2. Add Students to a Course
-  3. View Course Schedule
+  3. View Course Information
   4. Add Test scores to a Course
 
   0.  Exit
