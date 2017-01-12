@@ -15,8 +15,11 @@ web: http://courses.eddierangel.com/bc
 
 ## Course Information
 Building/Room: Business 5       
-Tuesday 01:00pm - 02:25pm
-Thursday 01:00pm - 02:25pm
+
+Day | Time
+------------ | -------------
+Tuesday | 01:00pm - 02:25pm
+Thursday | 01:00pm - 02:25pm
 
 ## Office Hours
 Building/Room: Business 1
