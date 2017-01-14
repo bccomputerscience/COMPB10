@@ -12,7 +12,8 @@ Building/Room: Business 1
 E-Mail: edward.rangel@bakersfieldcollege.edu  
 Phone: (661) 395-4879   
 Course Site: https://portal.bakersfieldcollege.edu/ 
-web: http://courses.eddierangel.com/bc  
+Web: http://courses.eddierangel.com/bc  
+Chat: http://eddierangel.slack.com
 
 ## Course Information
 Building/Room: Business 5       
@@ -31,6 +32,7 @@ Monday | 04:00pm – 05:30pm
 Tuesday | 03:00pm – 04:00pm
 Wednesday | 04:00pm – 05:30pm
 Thursday | 03:00pm – 04:00pm
+* I'll also be logged into my [Slack](http://eddierangel.slack.com) site. You'll need to register if you want to chat.
 * If you are unable to see me during my regularly scheduled office hours, please email me to schedule an appointment.
 
 ## Course Description
