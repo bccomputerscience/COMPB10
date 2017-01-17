@@ -10,9 +10,9 @@ Please read your Course Syllabus and answer the following questions.
 
 1. What is the date and time of your Final?
 
-2. Who is the author of your courses text book?
+2. Who is the author of your course's text book?
 
-3. What is one of courses student learning outcomes?
+3. What is one of the course's student learning outcomes?
 
 4. When are my office hours?
 
@@ -27,5 +27,7 @@ Please read your Course Syllabus and answer the following questions.
 9. What is the course description?
 
 10. When is the last day to withdrawal from this course without a 'W'?
+
+11. What are your expectations for this course?
 
 
