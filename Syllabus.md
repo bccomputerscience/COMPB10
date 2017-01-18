@@ -141,9 +141,8 @@ Week | Topics | Reading | Assignments
 3 | Decision Structures | Ch. 3 | Homework 1 Due
 4 | Repetition Structures | Ch. 4 | Homework 2 Due
 5 | Functions | Ch. 5 | Homework 3 Due 
-6 | Functions cont. | | Homework 4 Due
-7 | Files and Exceptions | Ch. 6 | Homework 5 Due
-6 | Lists and Tuples | Ch. 7 | 
+6 | Files and Exceptions | Ch. 6 | Homework 4 Due
+7 | Lists and Tuples | Ch. 7 | Homework 5 Due
 8 | Midterm | | 
 9 | More about Strings | Ch. 8 | Homework 6 Due
 10 | Dictionaries and Sets | Ch. 9 | Homework 7 Due 
