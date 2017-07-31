@@ -47,7 +47,7 @@ such as sorting and searching. Not open to students who have previously received
 
 ### Required:
 * Starting Out W/Python (LOOSELEAF) (4th edition) by Tony Gaddis, ISBN: 9780134444468
-* * Buy it in the BC Bookstore. They pricematch. 
+  * Buy it in the BC Bookstore. They price match. 
 * Flash Drive
 * BC Email Account
 * Four (4) green 100-answer test scan sheets (FORM NO. 882-ES).
