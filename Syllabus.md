@@ -97,7 +97,7 @@ You will need to have an up-to-date browser, operating system and some additiona
 software on your computer to take this class. Some of the documents in this course will be available to you in PDF form. If you do not have Adobe Acrobat Reader software on your computer, you can download it by going to http://get.adobe.com/reader/.
 
 ### Software Development Kit
-You will need to download and install the Java Development Kit if you plan on using your personal computer for this course.
+You will need to download and install the Python Development Kit if you plan on using your personal computer for this course. [Download Python](https://www.python.org/downloads/)
 
 ## Course communication
 ### How to
