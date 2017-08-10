@@ -101,26 +101,26 @@ Nov 24 | Thanksgiving Holiday - Campus Closed
 Dec 09 | End of Fall Semester
 
 ## 16 Week Semester Schedule  
+
 Week | Topics | Reading | Assignments
  ------------- | ------------- | ------------- | -------------
-1 | Introduction | Ch. 1 |
-2 | Input, Processing, and Output | Ch. 2 | 
-3 | Decision Structures | Ch. 3 | Homework 1 Due
-4 | Repetition Structures | Ch. 4 | Homework 2 Due
-5 | Functions | Ch. 5 | Homework 3 Due 
-6 | Files and Exceptions | Ch. 6 | Homework 4 Due
-7 | Lists and Tuples | Ch. 7 | Homework 5 Due
-8 | Midterm | | 
-9 | More about Strings | Ch. 8 | Homework 6 Due
-10 | Dictionaries and Sets | Ch. 9 | Homework 7 Due 
-11 | Classes and Object Oriented Programming | Ch. 10 | Homework 8 Due 
-12 | Classes cont. | | Homework 9 Due
-13 | Spring Break - Campus Closed | | 
-14 | Inheritence | Ch. 11 | Homework 10 Due
-15 | Recursion | Ch. 12 |
-16 | GUI Programming | Ch. 13 |
-17 | Finals Week | |  
-  |  **Thurs., Dec 7th @ 6PM** | | 
+1 | Intro. to Course | Ch. 1 | 
+2 | Input, Processing, and Output | Ch. 2 | HW 1
+3 | Decision Structures | Ch. 3 | PA 1
+4 | Repetition Structures | Ch. 4 | HW 2, PA 2
+5 | Functions  | Ch. 5 | 
+6 | Files and Exceptions | Ch. 6 | HW 3, PA 3
+7 | Lists and Tuples | Ch. 7 | HW 4, PA 4
+8 | Midterm | **Bring ScanTron** | HW 5
+9 | More about Strings | Ch. 8 | PA 5
+10 | Dictionaries and Sets  | Ch. 9 | 
+11 | Classes and Object Oriented Programming | Ch. 10 | HW 6, PA 6
+12 | Classes cont. |  | HW 7, PA 7
+13 | Inheritence | Ch. 11 | HW 8, PA 8
+14 | Recursion | Ch. 12 | HW 9, PA 9
+15 | GUI Programming/Project Due | Ch. 13 | HW 10, PA 10
+16 | Finals Week | | 
+ |  Final Exam **Thurs., Dec 7th @ 6PM** | **Bring ScanTron** | 
 
 ## Accommodations 
 Students with disabilities needing accommodation, including those who had an IEP in high school, should make requests to Disabled Students Programs and Services in CSS 10, or Delano room 1001 (661-395-4334, (661-720-2000 Delano)).  All requests for accommodations require appropriate advance notice to avoid a delay in services. Please discuss approved accommodations with me so we can work together to ensure your access and success at BC
