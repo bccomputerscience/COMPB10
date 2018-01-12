@@ -1,5 +1,5 @@
- COMP B10 - Introduction to Programming Methodologies using Python
-## FALL 2017 CRN: 71454
+# COMP B10 - Introduction to Programming Methodologies using Python
+## SPRING 2018 CRN: 30992
 
 ## Instructor
 Eddie Rangel  
@@ -14,22 +14,23 @@ Phone: (661) 395-4879
 Course Site: https://portal.bakersfieldcollege.edu/   
 
 ## Course Information
-Building/Room: Business 11         
+Building/Room: Business 5         
 
 Day | Time
 ------------ | -------------
-Thursday | 06:00pm - 09:10pm
+Tuesday | 01:00pm - 02:25pm
+Thursday | 01:00pm - 02:25pm
 
 ## Office Hours
-Building/Room: Business 1
+**Office: Business 1**
 
 Day | Time
 ------------ | -------------
-Monday | 09:30am – 11:00am
-Tuesday | 03:00pm – 04:00pm
-Wednesday | 09:30am – 11:00am
-Thursday | 03:00pm – 04:00pm
-* If you are unable to see me during my regularly scheduled office hours, please contact me through Canvas to schedule an appointment.
+Monday | 11:30am – 01:00pm
+Monday | 03:00pm – 04:00pm
+Wednesday | 11:30am – 01:00pm
+Wednesday | 03:00pm – 04:00pm
+* If you are unable to see me during my regularly scheduled office hours, please email me to schedule an appointment.
 
 ## Course Description
 This course is designed as a first course in software engineering for mixed-majors, with an emphasis on the Computer 
