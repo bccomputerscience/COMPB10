@@ -60,8 +60,7 @@ Assignment | Points
 ------------ | -------------
 Programming Assignments (10 @ 20 points each) | 200
 Homework Assignments (10 @ 10 points each) | 100
-In-Class Assignments (5 @ 5 points each) | 50 
-Quizzes (5 @ 5 points each) | 50 
+Quizzes  | 50 
 Midterm  | 50 
 Final Exam  | 100
 **TOTAL** | **500**
