@@ -1,5 +1,5 @@
 # COMP B10 - Introduction to Programming Methodologies using Python
-## FALL 2017 CRN: 71454
+## SPRING 2018 CRN: 30992
 
 ## Instructor
 Eddie Rangel  
@@ -14,22 +14,23 @@ Phone: (661) 395-4879
 Course Site: https://portal.bakersfieldcollege.edu/   
 
 ## Course Information
-Building/Room: Business 11         
+Building/Room: Business 5         
 
 Day | Time
 ------------ | -------------
-Thursday | 06:00pm - 09:10pm
+Tuesday | 01:00pm - 02:25pm
+Thursday | 01:00pm - 02:25pm
 
 ## Office Hours
-Building/Room: Business 1
+**Office: Business 1**
 
 Day | Time
 ------------ | -------------
-Monday | 09:30am – 11:00am
-Tuesday | 03:00pm – 04:00pm
-Wednesday | 09:30am – 11:00am
-Thursday | 03:00pm – 04:00pm
-* If you are unable to see me during my regularly scheduled office hours, please contact me through Canvas to schedule an appointment.
+Monday | 11:30am – 01:00pm
+Monday | 03:00pm – 04:00pm
+Wednesday | 11:30am – 01:00pm
+Wednesday | 03:00pm – 04:00pm
+* If you are unable to see me during my regularly scheduled office hours, please email me to schedule an appointment.
 
 ## Course Description
 This course is designed as a first course in software engineering for mixed-majors, with an emphasis on the Computer 
@@ -49,22 +50,21 @@ such as sorting and searching. Not open to students who have previously received
   * Buy it in the BC Bookstore. They price match. 
 * Flash Drive
 * BC Email Account
-* Four (4) green 100-answer test scan sheets (FORM NO. 882-ES).
+* GitHub Account
+* Two (2) green 100-answer test scan sheets (FORM NO. 882-E).
 * https://www.python.org/doc/
 
 ## Assignmentss and Exams
 
 Assignment | Points
 ------------ | -------------
-Project Proposal | 15
-Group Project | 25
 Programming Assignments (10 @ 20 points each) | 200
 Homework Assignments (10 @ 10 points each) | 100
-In-Class Assignments (5 @ 5 points each) | 25 
-Quizzes (5 @ 5 points each) | 25 
-Midterm (25/50) | 75 
-Final Exam (25/50) | 75
-**TOTAL** | **550**
+In-Class Assignments (5 @ 5 points each) | 50 
+Quizzes (5 @ 5 points each) | 50 
+Midterm  | 50 
+Final Exam  | 100
+**TOTAL** | **500**
 * The number of actual assignments given may vary depending on the pace of the semester. If this occurs the points will be adjusted accordingly.
 
 Range (%) | grade 
@@ -91,14 +91,14 @@ habits for success [Habits of Mind](visit www.bakersfieldcollege.edu/habits-of-m
 ## Important Dates
 Date | Event
 ------ | ------
-Aug 19 | Fall Semester - Instruction Begins 
-Sep 03 | Last day to drop from a semester length class without receiving a W 
-Sep 04 | Labor Day Holiday - Campus Closed
-Oct 20 | Last day to withdraw from a semester length class and receive a W 
-Nov 10 | Veterans Day - Campus Closed 
-Nov 23 | Thanksgiving Holiday - Campus Closed 
-Nov 24 | Thanksgiving Holiday - Campus Closed 
-Dec 09 | End of Fall Semester
+Jan 13 | Spring Semester - Instruction Begins 
+Jan 15 | Martin Luther King, Jr. Day Holiday – Campus Closed
+Jan 28 | Last day to drop from a semester length class without receiving a W 
+Feb 16 | Lincoln Holiday - Campus Closed 
+Feb 19 | Washington Holiday - Campus Closed  
+Mar 23 | Last day to withdraw from a semester length class and receive a W 
+Mar 26 | Spring Break - Campus Closed 
+May 11 | End of Spring Semester
 
 ## 16 Week Semester Schedule  
 
@@ -115,18 +115,20 @@ Week | Topics | Reading | Assignments
 9 | More about Strings | Ch. 8 | PA 5
 10 | Dictionaries and Sets  | Ch. 9 | 
 11 | Classes and Object Oriented Programming | Ch. 10 | HW 6, PA 6
-12 | Classes cont. |  | HW 7, PA 7
-13 | Inheritence | Ch. 11 | HW 8, PA 8
-14 | Recursion | Ch. 12 | HW 9, PA 9
-15 | GUI Programming/Project Due | Ch. 13 | HW 10, PA 10
-16 | Finals Week | | 
- |  Final Exam **Thurs., Dec 7th @ 6PM** | **Bring ScanTron** | 
+12 | Spring Break |  | 
+13 | Classes cont. |  | HW 7, PA 7
+14 | Inheritence | Ch. 11 | HW 8, PA 8
+15 | Recursion | Ch. 12 | HW 9, PA 9
+16 | GUI Programming/Project Due | Ch. 13 | HW 10, PA 10
+17 | Finals Week | | 
+Final Exam |   **Thurs., May 10 from 12pm - 1:50 PM** | **Bring ScanTron** | 
 
 ## Accommodations 
 Students with disabilities needing accommodation, including those who had an IEP in high school, should make requests to Disabled Students Programs and Services in CSS 10, or Delano room 1001 (661-395-4334, (661-720-2000 Delano)).  All requests for accommodations require appropriate advance notice to avoid a delay in services. Please discuss approved accommodations with me so we can work together to ensure your access and success at BC
 
 ## Attendance
-Attendance is mandatory. The school policy allows up to 2 weeks of absences before I am required to drop you. If you are tardy, you will be assessed an absences for every 2 tardies. The attendance policy as outlined in the campus catalog. Students must notify me in the event of class absences.  Any student that is absent for more than two weeks without prior instructor notification may be dropped from the course. If you do not want to be in the class then you must drop yourself from the course.  I will not retroactively drop you if you miss one of the “last day” to drop the course dates.  These dates are listed in the colleges academic calendar under [Important Dates](https://www.bakersfieldcollege.edu/important-dates). It is also expected that students will notify me before class in the rare instance of needing to leave class early.  Students, not notifying me in advance, may be marked absent upon their early departure.
+Attendance is mandatory. The attendance policy as outlined in the campus catalog will be enforced. Students must notify me in the event of class absences.  Any student that is absent for more than two weeks without prior instructor notification may be dropped from the course. If you do not want to be in the class then you must drop yourself from the course.  I will not retroactively drop you if you miss one of the “last day” to drop the course dates.  These dates are listed in class schedule and in the online campus schedule “Important Dates” section. It is also expected that students will notify me before class in the rare instance of needing to leave class early.  Students, not notifying me in advance, will be marked absent upon their early departure.
+
 
 ### Read the material for the week before class
 ### This syllabus is TENTATIVE and subject to change
